@@ -1,0 +1,8 @@
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\bin\Debug\outputConsolePractice1.exe.config
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\bin\Debug\outputConsolePractice1.exe
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\bin\Debug\outputConsolePractice1.pdb
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\obj\Debug\outputConsolePractice1.csproj.AssemblyReference.cache
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\obj\Debug\outputConsolePractice1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\obj\Debug\outputConsolePractice1.csproj.CoreCompileInputs.cache
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\obj\Debug\outputConsolePractice1.exe
+D:\Projects\vs\source\repos\CSharp\outputConsolePractice1\outputConsolePractice1\obj\Debug\outputConsolePractice1.pdb
