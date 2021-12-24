@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5000f29-61ad-4729-8c3f-89159ef02942": {
+      "ProjectGuid": "e5000f29-61ad-4729-8c3f-89159ef02942",
+      "DisplayName": "ConsoleKeyboardInput",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
